@@ -1,0 +1,6 @@
+https://github.com/Azure/azure-quickstart-templates
+https://github.com/Azure/AzureStack-QuickStart-Templates
+https://github.com/Azure/arm-deploy
+https://github.com/Azure/azure-quickstart-templates/blob/master/README.md
+https://github.com/Azure/azure-quickstart-templates/blob/master/1-CONTRIBUTION-GUIDE/best-practices.md
+https://github.com/Azure-Samples/function-app-arm-templates
