@@ -1,0 +1,1 @@
+This Repository will have the script files to deploy resources into Azure using Azure ARM Templates.
